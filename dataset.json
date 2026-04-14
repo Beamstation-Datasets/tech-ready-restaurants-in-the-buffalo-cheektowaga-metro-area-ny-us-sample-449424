@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Buffalo-Cheektowaga Metro Area, NY, US",
+  "export_job_id": "12ded57e-26c5-421c-bb54-591e5e1358b6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 449424,
+  "location_name": "Buffalo-Cheektowaga, NY",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-buffalo-cheektowaga-metro-area-ny-us-sample-449424",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/449424/beamstation_449424_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
+  "sample_pct": 7.14,
+  "sample_records": 1,
+  "sample_sha256": "2e4d9632f106b1f1140ba1a336020571a9bd05551378abef96ebb9e4d7482e01",
+  "sample_size_bytes": 19881,
+  "total_records": 14,
+  "updated_at": "2026-04-08T03:31:10.185517+00:00"
+}
