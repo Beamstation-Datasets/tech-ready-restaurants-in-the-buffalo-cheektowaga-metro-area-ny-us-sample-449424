@@ -9,9 +9,9 @@
 | Dataset ID | `449424` |
 | Location | Buffalo-Cheektowaga, NY |
 | Category | Restaurants |
-| Full dataset size | 11 records |
-| Free sample size | 1 records (9.09%) |
-| Last export | 2026-04-15T08:25:03.841625+00:00 |
+| Full dataset size | 2 records |
+| Free sample size | 1 records (50.0%) |
+| Last export | 2026-04-22T15:43:08.563591+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-buffalo-cheektowaga-metro-area-ny-us-sample-449424/releases/download/sample-latest/beamstation_449424_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv) |
 
 ## What is in this sample
