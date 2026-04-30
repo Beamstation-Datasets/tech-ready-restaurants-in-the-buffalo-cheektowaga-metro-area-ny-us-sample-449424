@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1402eba0-d151-47e8-a7bb-0dfd9bf773b8",
+  "export_job_id": "63a69608-853a-472f-8ac2-5430153588b7",
   "id_short": 449424,
-  "published_at": "2026-04-22T19:44:34Z",
+  "published_at": "2026-04-30T07:26:55Z",
   "repo_name": "tech-ready-restaurants-in-the-buffalo-cheektowaga-metro-area-ny-us-sample-449424",
   "sample_asset_name": "beamstation_449424_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/449424/beamstation_449424_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "63979b7ea42e048c384c152e0c0b86582620f1f35977e918c868da7b346d728f",
-  "sample_size_bytes": 20401,
-  "total_records": 2
+  "sample_sha256": "b2225c9bafc8c636d0dde45a4f0baed15fc980c44b190a30d7c46c1f463f0e04",
+  "sample_size_bytes": 19914,
+  "total_records": 9
 }
